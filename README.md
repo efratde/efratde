@@ -102,4 +102,33 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 
 ---
 
-*12 peer-reviewed publications · Plant ecology · Dispersal biology · Quantitative & hierarchical methods*
+## 📚 Selected publications
+
+Full, up-to-date list on [ORCID](https://orcid.org/0000-0002-6185-7046) and [Google Scholar](https://scholar.google.com/citations?user=oyDO1XoAAAAJ).
+
+**2026**
+- Dietary insights into ecological integration and impact on vegetation of a reintroduced large herbivore in a hyper-arid ecosystem. *Global Ecology and Conservation.* [doi](https://doi.org/10.1016/j.gecco.2026.e04215)
+- Multi-level variation in dispersal traits along a precipitation gradient. *Global Ecology and Conservation.* [doi](https://doi.org/10.1016/j.gecco.2026.e04246)
+
+**2024**
+- Stress induces trait variability across multiple spatial scales in the arid annual plant *Anastatica hierochuntica*. *Plants.* [doi](https://doi.org/10.3390/plants13020256)
+
+**2022**
+- Limits to the evolution of dispersal kernels under rapid fragmentation. *Journal of The Royal Society Interface.* [doi](https://doi.org/10.1098/rsif.2021.0696)
+- A hidden mechanism of forest loss under climate change: the role of drought in eliminating forest regeneration at the edge of its distribution. *Forest Ecology and Management.* [doi](https://doi.org/10.1016/j.foreco.2021.119966)
+- Bedrock may dictate the distribution of the fire salamander in the southern border of its global range. *Israel Journal of Ecology and Evolution.* [doi](https://doi.org/10.1163/22244662-bja10041)
+
+**2021**
+- Direct and indirect effects of fragmentation on seed dispersal traits in a fragmented agricultural landscape. *Agriculture, Ecosystems & Environment.* [doi](https://doi.org/10.1016/j.agee.2020.107273)
+- Phylogeny and abiotic conditions shape the diel floral emission patterns of desert Brassicaceae species. *Plant, Cell & Environment.* [doi](https://doi.org/10.1111/pce.14045)
+
+**2020**
+- Effect of habitat fragmentation on seed dispersal ability of a wind-dispersed annual in an agroecosystem. *Agriculture, Ecosystems & Environment.* [doi](https://doi.org/10.1016/j.agee.2020.107138)
+- The effect of pollen source on seed traits and dispersability in the heterocarpic annual *Crepis sancta*. *Journal of Plant Ecology.* [doi](https://doi.org/10.1093/jpe/rtaa105)
+
+**2016**
+- Pea plants show risk sensitivity. *Current Biology.* [doi](https://doi.org/10.1016/j.cub.2016.05.008)
+
+---
+
+*Plant ecology · Dispersal biology · Quantitative & hierarchical methods · [ORCID](https://orcid.org/0000-0002-6185-7046) · [Google Scholar](https://scholar.google.com/citations?user=oyDO1XoAAAAJ)*
