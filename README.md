@@ -6,14 +6,14 @@ Postdoctoral researcher, Ben-Gurion University of the Negev
 I study **seed dispersal, plant trait variation, and community ecology** across spatial scales, using field experiments, statistical modelling, and simulation. My work pairs ecological theory with computational methods — hierarchical variance models, agent-based simulation, image analysis, and interactive data tools.
 
 📄 **[Download CV (PDF)](https://github.com/efratde/efratde/raw/main/CV_Dener.pdf)** &nbsp;·&nbsp;
-🔬 [ORCID 0000-0001-5504-0358](https://orcid.org/0000-0001-5504-0358) &nbsp;·&nbsp;
-🎓 [Google Scholar](https://scholar.google.com/citations?user=5R4XYHMAAAAJ)
+🔬 [ORCID 0000-0002-6185-7046](https://orcid.org/0000-0002-6185-7046) &nbsp;·&nbsp;
+🎓 [Google Scholar](https://scholar.google.com/citations?user=oyDO1XoAAAAJ)
 
 ---
 
 ## 🔬 Live demos — click any image to open
 
-Every tool below runs live in the browser. They re-analyse real research data (kept private; the apps ship only computed summaries) or simulate from first principles.
+**A breadth-of-stacks showcase** — one researcher working across R/Shiny, Python, JavaScript and NetLogo, spanning spatial statistics, hierarchical variance models, in-browser image analysis, and agent-based simulation. Every demo runs **live in your browser**: tools built on my research studies ship **synthetic demonstration data** — fabricated to mirror the real data's structure, with no real measurements or locations exposed — and the theory tools simulate from first principles.
 
 <table>
 <tr>
@@ -21,13 +21,13 @@ Every tool below runs live in the browser. They re-analyse real research data (k
 <a href="https://n248wr-efrat-dener.shinyapps.io/wildass-dashboard/"><img src="assets/screenshots/wildass-dashboard.png" alt="Negev wild-ass findings dashboard"></a>
 <h3>🦓 Negev wild-ass study</h3>
 <p>A multi-method field study re-analysed end to end — fecal-DNA diet, GPS movement, vegetation, seed banks, and piosphere dynamics — built around one question: <em>does the reintroduced wild ass reshape the plant community?</em></p>
-<b><a href="https://n248wr-efrat-dener.shinyapps.io/wildass-dashboard/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/wildass-dashboard">Code</a>
+<b><a href="https://n248wr-efrat-dener.shinyapps.io/wildass-dashboard/">▶ Live demo</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://n248wr-efrat-dener.shinyapps.io/dashboard/"><img src="assets/screenshots/hierarchical-variance.png" alt="Hierarchical trait trade-offs dashboard"></a>
+<a href="https://github.com/efratde/hierarchical-variance-dashboard"><img src="assets/screenshots/hierarchical-variance.png" alt="Hierarchical trait trade-offs dashboard"></a>
 <h3>📊 Hierarchical variance dashboard</h3>
 <p>Multi-scale variance partitioning of dispersal traits — SMA trade-offs, environmental drivers, and mother-plant effects in <em>Geropogon</em> &amp; <em>Tragopogon</em>, with per-population regressions and Simpson's-paradox-aware decomposition.</p>
-<b><a href="https://n248wr-efrat-dener.shinyapps.io/dashboard/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/hierarchical-variance-dashboard">Code</a>
+<b><a href="https://github.com/efratde/hierarchical-variance-dashboard">View code</a></b> &nbsp;·&nbsp; <em>interactive demo rebuilding on synthetic data</em>
 </td>
 </tr>
 <tr>
@@ -82,7 +82,7 @@ Every tool below runs live in the browser. They re-analyse real research data (k
 <td width="50%" valign="top">
 <a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo"><img src="assets/screenshots/dispersal-kernel-model.png" alt="Dispersal kernel evolution model (NetLogo)"></a>
 <h3>🧬 Dispersal-kernel evolution model</h3>
-<p>NetLogo agent-based model of dispersal-kernel evolution under habitat fragmentation — the simulation behind Greenbaum, Dener &amp; Giladi (2022), <em>J. Royal Society Interface</em>. Runs in the browser via NetLogo Web.</p>
+<p>NetLogo agent-based model of dispersal-kernel evolution — a spatially explicit simulation of seed and pollen dispersal, gamete formation, establishment, and the build-up of spatial genetic structure and inbreeding across a heterogeneous landscape. Runs in the browser via NetLogo Web.</p>
 <b><a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo">▶ Run in browser</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/dispersal-kernel-model">Code</a>
 </td>
 </tr>
@@ -95,9 +95,8 @@ Every tool below runs live in the browser. They re-analyse real research data (k
 | Repository | What it is |
 |---|---|
 | [hierarchical-variance-dashboard](https://github.com/efratde/hierarchical-variance-dashboard) | Multi-scale variance partitioning of dispersal traits (R / Shiny) |
-| [wildass-dashboard](https://github.com/efratde/wildass-dashboard) | Integrated multi-method wild-ass field study (R / Shiny) |
 | [interactive-ecology-models](https://github.com/efratde/interactive-ecology-models) | Browser simulations of classic ecological theory (JS) |
-| [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo ABM — dispersal-kernel evolution (Greenbaum, Dener & Giladi 2022, *J. R. Soc. Interface*) |
+| [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo ABM — dispersal-kernel evolution, seed/pollen dispersal & spatial genetic structure |
 | [image-morphometrics](https://github.com/efratde/image-morphometrics) | Root architecture from RSML + seed morphology from images (Python / JS) |
 | [simpson-paradox](https://github.com/efratde/simpson-paradox) · [voc-pollinator](https://github.com/efratde/voc-pollinator) · [wildass-diet](https://github.com/efratde/wildass-diet) · [root-alignment](https://github.com/efratde/root-alignment) | Standalone analysis apps (R / Shiny) |
 
