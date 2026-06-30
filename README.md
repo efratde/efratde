@@ -110,6 +110,9 @@ Full, up-to-date list on [ORCID](https://orcid.org/0000-0002-6185-7046) and [Goo
 - Dietary insights into ecological integration and impact on vegetation of a reintroduced large herbivore in a hyper-arid ecosystem. *Global Ecology and Conservation.* [doi](https://doi.org/10.1016/j.gecco.2026.e04215)
 - Multi-level variation in dispersal traits along a precipitation gradient. *Global Ecology and Conservation.* [doi](https://doi.org/10.1016/j.gecco.2026.e04246)
 
+**2025**
+- Plant fitness is shaped by cascading effects of aridity and drought on floral traits and pollination services. *Agriculture, Ecosystems & Environment.* [doi](https://doi.org/10.1016/j.agee.2025.109855)
+
 **2024**
 - Stress induces trait variability across multiple spatial scales in the arid annual plant *Anastatica hierochuntica*. *Plants.* [doi](https://doi.org/10.3390/plants13020256)
 
