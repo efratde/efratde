@@ -11,14 +11,24 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 
 ---
 
-## Research software
+## Live demos — click and explore
 
-| Repository | What it is | Live |
+| App | What it shows | Open |
 |---|---|---|
-| [interactive-ecology-models](https://github.com/efratde/interactive-ecology-models) | Browser-based simulations of classical ecology models — Tilman resource competition, Lotka–Volterra, coexistence theory, dynamical systems | [▶ Live demo](https://efratde.github.io/interactive-ecology-models/) |
-| [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo agent-based model: evolution of dispersal kernels under habitat fragmentation (Greenbaum, Dener & Giladi 2022, *J. Royal Society Interface*) | [▶ Run in browser](https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo) |
-| [hierarchical-variance-dashboard](https://github.com/efratde/hierarchical-variance-dashboard) | Modular R Shiny dashboard for multi-scale variance partitioning and environmental drivers of seed-trait variation | — |
-| [image-morphometrics](https://github.com/efratde/image-morphometrics) | Python pipeline for quantifying root architecture (RSML) and seed morphology (OpenCV) from images | — |
+| [Interactive ecology models](https://github.com/efratde/interactive-ecology-models) | Browser simulations: Tilman resource competition, Lotka–Volterra, coexistence theory, dynamical systems | [▶ Live](https://efratde.github.io/interactive-ecology-models/) |
+| [Negev wild-ass study](https://github.com/efratde/wildass-dashboard) | Integrated findings from a multi-method field study — fecal DNA diet, GPS movement, vegetation, seed banks, piosphere dynamics | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/wildass-dashboard/) |
+| [Hierarchical variance dashboard](https://github.com/efratde/hierarchical-variance-dashboard) | Multi-scale variance partitioning of dispersal traits — SMA trade-offs, environmental drivers, mother-plant effects (*Geropogon* / *Tragopogon*) | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/dashboard/) |
+| [Dispersal trait variance — field study](https://github.com/efratde/hierarchical-variance-dashboard) | Seed morphology variance across precipitation gradients and capitulum positions | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/dispersal-trait-variance/) |
+| [VOC × Pollinator analysis](https://github.com/efratde/image-morphometrics) | Volatile compound profiles correlated with pollinator visitation in wild and domesticated *Carthamus* | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/voc-pollinator/) |
+
+---
+
+## Code repositories
+
+| Repository | What it is |
+|---|---|
+| [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo agent-based model: evolution of dispersal kernels under habitat fragmentation (Greenbaum, Dener & Giladi 2022, *J. Royal Society Interface*) — [▶ run in browser](https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo) |
+| [image-morphometrics](https://github.com/efratde/image-morphometrics) | Python pipeline: root architecture from RSML files + seed morphology from images (OpenCV) |
 
 ---
 
