@@ -22,6 +22,7 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 | [Dispersal trait variance — field study](https://github.com/efratde/hierarchical-variance-dashboard) | Seed morphology variance across precipitation gradients and capitulum positions | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/dispersal-trait-variance/) |
 | VOC × Pollinator analysis | Volatile compound profiles correlated with pollinator visitation in wild and domesticated *Carthamus* | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/voc-pollinator/) |
 | [Simpson's Paradox simulator](https://github.com/efratde/hierarchical-variance-dashboard) | Interactive simulation of hierarchical data: see how the overall slope can flip direction relative to within-group slopes — adjustable hierarchy, slope–X correlation, forest plots | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/simpson-paradox/) |
+| [Root growth alignment tool](https://github.com/efratde/image-morphometrics) | Shiny app for aligning RSML root-system scans across two time points — geometric transforms, per-root correspondence mapping, growth quantification | [▶ Live](https://ig58km-efrat-dener.shinyapps.io/root-alignment/) |
 
 ---
 
