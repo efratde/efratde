@@ -23,6 +23,7 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 | VOC × Pollinator analysis | Volatile compound profiles correlated with pollinator visitation in wild and domesticated *Carthamus* | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/voc-pollinator/) |
 | [Simpson's Paradox simulator](https://github.com/efratde/hierarchical-variance-dashboard) | Interactive simulation of hierarchical data: see how the overall slope can flip direction relative to within-group slopes — adjustable hierarchy, slope–X correlation, forest plots | [▶ Live](https://n248wr-efrat-dener.shinyapps.io/simpson-paradox/) |
 | [Root growth alignment tool](https://github.com/efratde/image-morphometrics) | Shiny app for aligning RSML root-system scans across two time points — geometric transforms, per-root correspondence mapping, growth quantification | [▶ Live](https://ig58km-efrat-dener.shinyapps.io/root-alignment/) |
+| [Pappus morphology analyzer](https://github.com/efratde/image-morphometrics) | Browser-based image analysis tool: upload a seed photo, segment the pappus, extract area, perimeter, circularity, Feret diameter, solidity — runs entirely client-side | [▶ Live](https://efratde.github.io/image-morphometrics/pappus-analyzer.html) |
 
 ---
 
@@ -31,7 +32,7 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 | Repository | What it is |
 |---|---|
 | [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo agent-based model: evolution of dispersal kernels under habitat fragmentation (Greenbaum, Dener & Giladi 2022, *J. Royal Society Interface*) — [▶ run in browser](https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo) |
-| [image-morphometrics](https://github.com/efratde/image-morphometrics) | Python pipeline: root architecture from RSML files + seed morphology from images (OpenCV) — [▶ Pappus analyzer](https://efratde.github.io/image-morphometrics/pappus-analyzer.html) |
+| [image-morphometrics](https://github.com/efratde/image-morphometrics) | Python pipeline: root architecture from RSML files + seed morphology from images (OpenCV) |
 
 ---
 
