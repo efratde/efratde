@@ -13,9 +13,9 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 
 ## 🔬 Live demos — click any image to open
 
-**A breadth-of-stacks showcase** — one researcher working across R/Shiny, Python, JavaScript and NetLogo, spanning spatial statistics, hierarchical variance models, in-browser image analysis, and agent-based simulation. Every demo runs **live in your browser**.
+**A breadth-of-stacks showcase** — one researcher working across R/Shiny, Python, JavaScript/WebGL and NetLogo, spanning spatial statistics, hierarchical variance models, in-browser image analysis, agent-based simulation, interactive 3D interfaces, and reproducible technical reporting. Every demo runs **live in your browser**.
 
-> 🧪 **All demos use synthetic data.** Apps built on my research studies ship demonstration data fabricated to mirror the real data's structure — no real measurements, coordinates, or localities are exposed. The theory tools simulate from first principles.
+> 🧪 **No real or protected data is exposed.** Demos built on my research studies ship demonstration data fabricated to mirror the real data's structure — no real measurements, coordinates, or localities. Theory, modelling, and engineering demos run on simulated, fictional, or public data.
 
 <table>
 <tr>
@@ -26,10 +26,10 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 <b><a href="https://n248wr-efrat-dener.shinyapps.io/wildass-dashboard/">▶ Live demo</a></b>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/efratde/hierarchical-variance-dashboard"><img src="assets/screenshots/hierarchical-variance.png" alt="Hierarchical trait trade-offs dashboard"></a>
+<a href="https://ig58km-efrat-dener.shinyapps.io/hierarchical-variance/"><img src="assets/screenshots/hierarchical-variance.png" alt="Hierarchical trait trade-offs dashboard"></a>
 <h3>📊 Hierarchical variance dashboard</h3>
 <p>Multi-scale variance partitioning of dispersal traits — SMA trade-offs, environmental drivers, and mother-plant effects in <em>Geropogon</em> &amp; <em>Tragopogon</em>, with per-population regressions and Simpson's-paradox-aware decomposition.</p>
-<b><a href="https://github.com/efratde/hierarchical-variance-dashboard">View code</a></b> &nbsp;·&nbsp; <em>interactive demo rebuilding on synthetic data</em>
+<b><a href="https://ig58km-efrat-dener.shinyapps.io/hierarchical-variance/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/hierarchical-variance-dashboard">Code</a>
 </td>
 </tr>
 <tr>
@@ -88,6 +88,34 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 <b><a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo">▶ Run in browser</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/dispersal-kernel-model">Code</a>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://efratde.github.io/smart-home-demo/"><img src="assets/screenshots/smart-home.png" alt="Interactive 3D smart-home dashboard"></a>
+<h3>🏡 3D smart-home dashboard</h3>
+<p>An interactive 3D "living home" — a WebGL house model wired to weather, solar-energy, garden, and night-sky panels, with a time-machine scrubber across days and years. Three.js with a from-scratch sun-position / astronomy engine; runs entirely client-side. Demo data for a fictional household.</p>
+<b><a href="https://efratde.github.io/smart-home-demo/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/smart-home-demo">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://event-digest.pages.dev/"><img src="assets/screenshots/event-digest.png" alt="Personalized event-digest engine"></a>
+<h3>🎫 Personalized event digest</h3>
+<p>An event-digest engine — aggregates public performance listings, ranks them by learned preferences, and renders a newspaper-style daily brief with category filters, search, and a saved shortlist. Python data pipeline with a static HTML/CSS front end.</p>
+<b><a href="https://event-digest.pages.dev/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/event-digest">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://efratde.github.io/industrial-dispersion/industrial_dispersion_assessment.html"><img src="assets/screenshots/industrial-dispersion.png" alt="Atmospheric dispersion modelling report"></a>
+<h3>☁️ Atmospheric dispersion report</h3>
+<p>A reproducible R Markdown worked example — Gaussian-plume dispersion of a toxic-gas (chlorine) release with a probabilistic concentration ensemble over reanalysis winds, AEGL/ERPG exposure thresholds, plume-arrival times, and interactive scenario maps. Fully fictional facility and study region.</p>
+<b><a href="https://efratde.github.io/industrial-dispersion/industrial_dispersion_assessment.html">▶ Open report</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/industrial-dispersion">Code</a>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/habitat-fragmentation-model/main/model/habitat-fragmentation-dispersal-model-web.nlogo"><img src="assets/screenshots/habitat-fragmentation.png" alt="Habitat-fragmentation dispersal model (NetLogo)"></a>
+<h3>🧩 Habitat-fragmentation model</h3>
+<p>A NetLogo agent-based model of plant dispersal under habitat fragmentation — seed and pollen disperse across a fragmenting landscape while relatedness, inbreeding, and spatial genetic structure build up, showing how fragmentation limits dispersal and reshapes population genetics. Runs in the browser via NetLogo Web.</p>
+<b><a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/habitat-fragmentation-model/main/model/habitat-fragmentation-dispersal-model-web.nlogo">▶ Run in browser</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/habitat-fragmentation-model">Code</a>
+</td>
+</tr>
 </table>
 
 ---
@@ -100,6 +128,10 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 | [interactive-ecology-models](https://github.com/efratde/interactive-ecology-models) | Browser simulations of classic ecological theory (JS) |
 | [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo ABM — dispersal-kernel evolution, seed/pollen dispersal & spatial genetic structure |
 | [image-morphometrics](https://github.com/efratde/image-morphometrics) | Root architecture from RSML + seed morphology from images (Python / JS) |
+| [smart-home-demo](https://github.com/efratde/smart-home-demo) | Interactive 3D "living home" dashboard — Three.js + a from-scratch astronomy engine (JS / WebGL) |
+| [industrial-dispersion](https://github.com/efratde/industrial-dispersion) | Reproducible atmospheric-dispersion worked example — Gaussian plume + exposure thresholds (R / R Markdown) |
+| [habitat-fragmentation-model](https://github.com/efratde/habitat-fragmentation-model) | NetLogo ABM — plant dispersal & spatial genetic structure under habitat fragmentation |
+| [event-digest](https://github.com/efratde/event-digest) | Personalized event-digest engine — Python pipeline + static web front end |
 | [simpson-paradox](https://github.com/efratde/simpson-paradox) · [voc-pollinator](https://github.com/efratde/voc-pollinator) · [wildass-diet](https://github.com/efratde/wildass-diet) · [root-alignment](https://github.com/efratde/root-alignment) | Standalone analysis apps (R / Shiny) |
 
 ---
