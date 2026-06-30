@@ -31,7 +31,7 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 | Repository | What it is |
 |---|---|
 | [dispersal-kernel-model](https://github.com/efratde/dispersal-kernel-model) | NetLogo agent-based model: evolution of dispersal kernels under habitat fragmentation (Greenbaum, Dener & Giladi 2022, *J. Royal Society Interface*) — [▶ run in browser](https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/dispersal-kernel-model/main/model/dispersal-kernel-model.nlogo) |
-| [image-morphometrics](https://github.com/efratde/image-morphometrics) | Python pipeline: root architecture from RSML files + seed morphology from images (OpenCV) |
+| [image-morphometrics](https://github.com/efratde/image-morphometrics) | Python pipeline: root architecture from RSML files + seed morphology from images (OpenCV) — [▶ Pappus analyzer](https://efratde.github.io/image-morphometrics/pappus-analyzer.html) |
 
 ---
 
