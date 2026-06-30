@@ -13,7 +13,9 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 
 ## 🔬 Live demos — click any image to open
 
-**A breadth-of-stacks showcase** — one researcher working across R/Shiny, Python, JavaScript and NetLogo, spanning spatial statistics, hierarchical variance models, in-browser image analysis, and agent-based simulation. Every demo runs **live in your browser**: tools built on my research studies ship **synthetic demonstration data** — fabricated to mirror the real data's structure, with no real measurements or locations exposed — and the theory tools simulate from first principles.
+**A breadth-of-stacks showcase** — one researcher working across R/Shiny, Python, JavaScript and NetLogo, spanning spatial statistics, hierarchical variance models, in-browser image analysis, and agent-based simulation. Every demo runs **live in your browser**.
+
+> 🧪 **All demos use synthetic data.** Apps built on my research studies ship demonstration data fabricated to mirror the real data's structure — no real measurements, coordinates, or localities are exposed. The theory tools simulate from first principles.
 
 <table>
 <tr>
