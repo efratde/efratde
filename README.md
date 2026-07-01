@@ -110,10 +110,20 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 <b><a href="https://efratde.github.io/industrial-dispersion/industrial_dispersion_assessment.html">▶ Open report</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/industrial-dispersion">Code</a>
 </td>
 <td width="50%" valign="top">
+<a href="https://efratde.github.io/dispersion-sim/"><img src="assets/screenshots/dispersion-sim.png" alt="Interactive atmospheric dispersion simulator"></a>
+<h3>🌫️ Live dispersion simulator</h3>
+<p>The interactive companion to the report on the left — pick a chemical-release scenario and a weather regime and a Gaussian-plume concentration field is computed <em>live in the browser</em>: ERPG hazard contours via marching-squares, an animated travelling plume, a wind rose, per-settlement exposure, and a draft emergency-response protocol. Vanilla JS + Leaflet + D3, no server. Fictional facility, towns, and weather.</p>
+<b><a href="https://efratde.github.io/dispersion-sim/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/dispersion-sim">Code</a>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/habitat-fragmentation-model/main/model/habitat-fragmentation-dispersal-model-web.nlogo"><img src="assets/screenshots/habitat-fragmentation.png" alt="Habitat-fragmentation dispersal model (NetLogo)"></a>
 <h3>🧩 Habitat-fragmentation model</h3>
 <p>A NetLogo agent-based model of plant dispersal under habitat fragmentation — seed and pollen disperse across a fragmenting landscape while relatedness, inbreeding, and spatial genetic structure build up, showing how fragmentation limits dispersal and reshapes population genetics. Runs in the browser via NetLogo Web.</p>
 <b><a href="https://www.netlogoweb.org/launch#https://raw.githubusercontent.com/efratde/habitat-fragmentation-model/main/model/habitat-fragmentation-dispersal-model-web.nlogo">▶ Run in browser</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/habitat-fragmentation-model">Code</a>
+</td>
+<td width="50%" valign="top">
 </td>
 </tr>
 </table>
@@ -130,6 +140,7 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 | [image-morphometrics](https://github.com/efratde/image-morphometrics) | Root architecture from RSML + seed morphology from images (Python / JS) |
 | [smart-home-demo](https://github.com/efratde/smart-home-demo) | Interactive 3D "living home" dashboard — Three.js + a from-scratch astronomy engine (JS / WebGL) |
 | [industrial-dispersion](https://github.com/efratde/industrial-dispersion) | Reproducible atmospheric-dispersion worked example — Gaussian plume + exposure thresholds (R / R Markdown) |
+| [dispersion-sim](https://github.com/efratde/dispersion-sim) | Interactive in-browser Gaussian-plume dispersion simulator — ERPG contours, animated plume, per-settlement exposure (JS / Leaflet / D3) |
 | [habitat-fragmentation-model](https://github.com/efratde/habitat-fragmentation-model) | NetLogo ABM — plant dispersal & spatial genetic structure under habitat fragmentation |
 | [event-digest](https://github.com/efratde/event-digest) | Personalized event-digest engine — Python pipeline + static web front end |
 | [simpson-paradox](https://github.com/efratde/simpson-paradox) · [voc-pollinator](https://github.com/efratde/voc-pollinator) · [wildass-diet](https://github.com/efratde/wildass-diet) · [root-alignment](https://github.com/efratde/root-alignment) | Standalone analysis apps (R / Shiny) |
@@ -143,6 +154,7 @@ Full, up-to-date list on [ORCID](https://orcid.org/0000-0002-6185-7046) and [Goo
 **2026**
 - Dietary insights into ecological integration and impact on vegetation of a reintroduced large herbivore in a hyper-arid ecosystem. *Global Ecology and Conservation.* [doi](https://doi.org/10.1016/j.gecco.2026.e04215)
 - Multi-level variation in dispersal traits along a precipitation gradient. *Global Ecology and Conservation.* [doi](https://doi.org/10.1016/j.gecco.2026.e04246)
+- Tree–microbe–soil interactions affecting soil organic carbon fractions in Mediterranean forest soils. *EGUsphere* (preprint). [doi](https://doi.org/10.5194/egusphere-2026-2099)
 
 **2025**
 - Plant fitness is shaped by cascading effects of aridity and drought on floral traits and pollination services. *Agriculture, Ecosystems & Environment.* [doi](https://doi.org/10.1016/j.agee.2025.109855)
