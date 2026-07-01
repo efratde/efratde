@@ -96,10 +96,10 @@ I study **seed dispersal, plant trait variation, and community ecology** across 
 <b><a href="https://efratde.github.io/smart-home-demo/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/smart-home-demo">Code</a>
 </td>
 <td width="50%" valign="top">
-<a href="https://event-digest.pages.dev/"><img src="assets/screenshots/event-digest.png" alt="Personalized event-digest engine"></a>
+<a href="https://efratde.github.io/event-digest/"><img src="assets/screenshots/event-digest.png" alt="Personalized event-digest engine"></a>
 <h3>🎫 Personalized event digest</h3>
 <p>An event-digest engine — aggregates public performance listings, ranks them by learned preferences, and renders a newspaper-style daily brief with category filters, search, and a saved shortlist. Python data pipeline with a static HTML/CSS front end.</p>
-<b><a href="https://event-digest.pages.dev/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/event-digest">Code</a>
+<b><a href="https://efratde.github.io/event-digest/">▶ Live demo</a></b> &nbsp;·&nbsp; <a href="https://github.com/efratde/event-digest">Code</a>
 </td>
 </tr>
 <tr>
